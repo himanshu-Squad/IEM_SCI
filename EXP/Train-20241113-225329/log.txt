@@ -1,0 +1,3 @@
+2024-11-13 22:53:29,257 train file name = ('D:\\The SquadSync\\IEM-main_2', 'train.py')
+2024-11-13 22:53:29,324 model size = 0.005877
+2024-11-13 22:53:29,325 Validation dataset is empty. Exiting...

@@ -1,0 +1,2 @@
+2024-11-14 10:49:19,636 train file name = ('D:\\The SquadSync\\IEM-main_2', 'train.py')
+2024-11-14 10:49:19,677 model size = 0.005877
